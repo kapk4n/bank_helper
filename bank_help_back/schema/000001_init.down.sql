@@ -1,0 +1,24 @@
+DROP TABLE tests_result CASCADE;
+
+DROP TABLE con_group_user CASCADE;
+
+DROP TABLE task CASCADE;
+
+DROP TABLE tests CASCADE;
+
+DROP TABLE "groups" CASCADE;
+
+DROP TABLE firm CASCADE;
+
+DROP TABLE "user" CASCADE;
+
+DROP TABLE "roles" CASCADE;
+
+DROP TABLE "comments_lib" CASCADE;
+
+DROP TABLE "articles" CASCADE;
+
+DROP TABLE "sections" CASCADE;
+
+
+
