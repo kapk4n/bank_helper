@@ -1,0 +1,14 @@
+DROP TABLE comment CASCADE;
+
+DROP TABLE desk CASCADE;
+
+DROP TABLE room CASCADE;
+
+DROP TABLE schema_migrations CASCADE;
+
+DROP TABLE task CASCADE;
+
+DROP TABLE task_room CASCADE;
+
+DROP TABLE user CASCADE;
+
